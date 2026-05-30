@@ -20,6 +20,6 @@ Because this project is fully self-contained, getting it running is incredibly s
    ```bash
    git clone [https://github.com/wake-bikila-dev/rose_flower.git](https://github.com/wake-bikila-dev/rose_flower.git)
 
-Copyright & copy; 2026 Wake Bikila. All rights reserved. 
+Copyright & copy © 2026 Wake Bikila. All rights reserved. 
 
 This repository and its contents are provided for portfolio and demonstration purposes only. You may view the code, but you may not copy, modify, distribute, or use it in your own projects without explicit written permission.
